@@ -1,5 +1,6 @@
 const ejercicios =[
   {
+    "id": 101,
     "titulo": "Rebote en soporte #1",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -85,6 +86,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 1,
     "titulo": "Rebote en soporte #2",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -170,6 +172,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 2,
     "titulo": "Rebote en soporte #3",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -255,6 +258,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 3,
     "titulo": "Rebote en soporte #4",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -340,6 +344,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 4,
     "titulo": "Rebote en soporte #5",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -425,6 +430,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 5,
     "titulo": "Rebote en soporte #6",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -510,6 +516,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 6,
     "titulo": "Rebote en soporte #7",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -595,6 +602,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 7,
     "titulo": "Rebote en soporte #8",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -680,6 +688,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 8,
     "titulo": "Rebote en soporte #9",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -765,6 +774,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 9,
     "titulo": "Rebote en soporte #10",
     "resultadoEsperado": "CALL",
     "explicacion": "Rebote en soporte",
@@ -850,6 +860,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 10,
     "titulo": "Rebote en resistencia #1",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -935,6 +946,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 11,
     "titulo": "Rebote en resistencia #2",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1020,6 +1032,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 12,
     "titulo": "Rebote en resistencia #3",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1105,6 +1118,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 13,
     "titulo": "Rebote en resistencia #4",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1190,6 +1204,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 14,
     "titulo": "Rebote en resistencia #5",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1275,6 +1290,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 15,
     "titulo": "Rebote en resistencia #6",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1360,6 +1376,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 16,
     "titulo": "Rebote en resistencia #7",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1445,6 +1462,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 17,
     "titulo": "Rebote en resistencia #8",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1530,6 +1548,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 18,
     "titulo": "Rebote en resistencia #9",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1615,6 +1634,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 19,
     "titulo": "Rebote en resistencia #10",
     "resultadoEsperado": "PUT",
     "explicacion": "Rebote en resistencia",
@@ -1700,6 +1720,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 20,
     "titulo": "Ruptura de soporte #1",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -1785,6 +1806,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 21,
     "titulo": "Ruptura de soporte #2",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -1870,6 +1892,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 22,
     "titulo": "Ruptura de soporte #3",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -1955,6 +1978,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 23,
     "titulo": "Ruptura de soporte #4",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -2040,6 +2064,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 24,
     "titulo": "Ruptura de soporte #5",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -2125,6 +2150,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 25,
     "titulo": "Ruptura de soporte #6",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -2210,6 +2236,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 26,
     "titulo": "Ruptura de soporte #7",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -2295,6 +2322,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 27,
     "titulo": "Ruptura de soporte #8",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -2380,6 +2408,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 28,
     "titulo": "Ruptura de soporte #9",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -2465,6 +2494,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 29,
     "titulo": "Ruptura de soporte #10",
     "resultadoEsperado": "PUT",
     "explicacion": "Ruptura de soporte",
@@ -2550,6 +2580,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 30,
     "titulo": "Ruptura de resistencia #1",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -2635,6 +2666,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 31,
     "titulo": "Ruptura de resistencia #2",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -2720,6 +2752,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 32,
     "titulo": "Ruptura de resistencia #3",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -2805,6 +2838,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 33,
     "titulo": "Ruptura de resistencia #4",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -2890,6 +2924,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 34,
     "titulo": "Ruptura de resistencia #5",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -2975,6 +3010,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 35,
     "titulo": "Ruptura de resistencia #6",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -3060,6 +3096,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 36,
     "titulo": "Ruptura de resistencia #7",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -3145,6 +3182,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 37,
     "titulo": "Ruptura de resistencia #8",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -3230,6 +3268,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 38,
     "titulo": "Ruptura de resistencia #9",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -3315,6 +3354,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 39,
     "titulo": "Ruptura de resistencia #10",
     "resultadoEsperado": "CALL",
     "explicacion": "Ruptura de resistencia",
@@ -3400,6 +3440,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 40,
     "titulo": "Falsa ruptura soporte #1",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -3485,6 +3526,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 41,
     "titulo": "Falsa ruptura soporte #2",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -3570,6 +3612,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 42,
     "titulo": "Falsa ruptura soporte #3",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -3655,6 +3698,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 43,
     "titulo": "Falsa ruptura soporte #4",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -3740,6 +3784,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 44,
     "titulo": "Falsa ruptura soporte #5",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -3825,6 +3870,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 45,
     "titulo": "Falsa ruptura soporte #6",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -3910,6 +3956,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 46,
     "titulo": "Falsa ruptura soporte #7",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -3995,9 +4042,10 @@ const ejercicios =[
     ]
   },
   {
-    "titulo": "Falsa ruptura soporte #8",
-    "resultadoEsperado": "CALL",
-    "explicacion": "Falsa ruptura soporte",
+  "id": 47,
+    "titulo": "Rebote en resistencia #8",
+    "resultadoEsperado": "PUT",
+    "explicacion": "Rebote en resistencia",
     "soportes": [
       92
     ],
@@ -4080,6 +4128,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 48,
     "titulo": "Falsa ruptura soporte #9",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -4165,6 +4214,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 49,
     "titulo": "Falsa ruptura soporte #10",
     "resultadoEsperado": "CALL",
     "explicacion": "Falsa ruptura soporte",
@@ -4250,6 +4300,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 50,
     "titulo": "Falsa ruptura resistencia #1",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -4335,6 +4386,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 51,
     "titulo": "Falsa ruptura resistencia #2",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -4420,6 +4472,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 52,
     "titulo": "Falsa ruptura resistencia #3",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -4505,6 +4558,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 53,
     "titulo": "Falsa ruptura resistencia #4",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -4590,6 +4644,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 54,
     "titulo": "Falsa ruptura resistencia #5",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -4675,6 +4730,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 55,
     "titulo": "Falsa ruptura resistencia #6",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -4760,6 +4816,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 56,
     "titulo": "Falsa ruptura resistencia #7",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -4845,6 +4902,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 57,
     "titulo": "Falsa ruptura resistencia #8",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -4930,6 +4988,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 58,
     "titulo": "Falsa ruptura resistencia #9",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -5015,6 +5074,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 59,
     "titulo": "Falsa ruptura resistencia #10",
     "resultadoEsperado": "PUT",
     "explicacion": "Falsa ruptura resistencia",
@@ -5100,6 +5160,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 60,
     "titulo": "Pullback alcista #1",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5185,6 +5246,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 61,
     "titulo": "Pullback alcista #2",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5270,6 +5332,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 62,
     "titulo": "Pullback alcista #3",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5355,6 +5418,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 63,
     "titulo": "Pullback alcista #4",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5440,6 +5504,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 64,
     "titulo": "Pullback alcista #5",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5525,6 +5590,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 65,
     "titulo": "Pullback alcista #6",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5610,6 +5676,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 66,
     "titulo": "Pullback alcista #7",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5695,6 +5762,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 67,
     "titulo": "Pullback alcista #8",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5780,11 +5848,12 @@ const ejercicios =[
     ]
   },
   {
+  "id": 68,
     "titulo": "Pullback alcista #9",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
     "soportes": [
-      78
+      80
     ],
     "resistencias": [
       88
@@ -5865,6 +5934,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 69,
     "titulo": "Pullback alcista #10",
     "resultadoEsperado": "CALL",
     "explicacion": "Pullback alcista",
@@ -5950,6 +6020,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 70,
     "titulo": "Pullback bajista #1",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6035,6 +6106,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 71,
     "titulo": "Pullback bajista #2",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6120,6 +6192,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 72,
     "titulo": "Pullback bajista #3",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6205,6 +6278,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 73,
     "titulo": "Pullback bajista #4",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6290,6 +6364,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 74,
     "titulo": "Pullback bajista #5",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6375,6 +6450,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 75,
     "titulo": "Pullback bajista #6",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6460,6 +6536,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 76,
     "titulo": "Pullback bajista #7",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6545,6 +6622,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 77,
     "titulo": "Pullback bajista #8",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6630,6 +6708,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 78,
     "titulo": "Pullback bajista #9",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6715,6 +6794,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 79,
     "titulo": "Pullback bajista #10",
     "resultadoEsperado": "PUT",
     "explicacion": "Pullback bajista",
@@ -6800,6 +6880,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 80,
     "titulo": "Doble piso #1",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -6885,6 +6966,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 81,
     "titulo": "Doble piso #2",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -6970,6 +7052,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 82,
     "titulo": "Doble piso #3",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -7055,6 +7138,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 83,
     "titulo": "Doble piso #4",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -7140,6 +7224,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 84,
     "titulo": "Doble piso #5",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -7225,6 +7310,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 85,
     "titulo": "Doble piso #6",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -7310,6 +7396,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 86,
     "titulo": "Doble piso #7",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -7395,6 +7482,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 87,
     "titulo": "Doble piso #8",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -7480,6 +7568,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 88,
     "titulo": "Doble piso #9",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -7565,6 +7654,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 89,
     "titulo": "Doble piso #10",
     "resultadoEsperado": "CALL",
     "explicacion": "Doble piso",
@@ -7650,6 +7740,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 90,
     "titulo": "Doble techo #1",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -7735,6 +7826,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 91,
     "titulo": "Doble techo #2",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -7813,13 +7905,14 @@ const ejercicios =[
       },
       {
         "o": 98,
-        "h": 100,
+        "h": 99,
         "l": 97,
         "c": 99
       }
     ]
   },
   {
+  "id": 92,
     "titulo": "Doble techo #3",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -7905,6 +7998,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 93,
     "titulo": "Doble techo #4",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -7990,6 +8084,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 94,
     "titulo": "Doble techo #5",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -8075,6 +8170,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 95,
     "titulo": "Doble techo #6",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -8160,6 +8256,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 96,
     "titulo": "Doble techo #7",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -8238,13 +8335,14 @@ const ejercicios =[
       },
       {
         "o": 119,
-        "h": 120,
+        "h": 122,
         "l": 117,
         "c": 118
       }
     ]
   },
   {
+  "id": 97,
     "titulo": "Doble techo #8",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -8330,6 +8428,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 98,
     "titulo": "Doble techo #9",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
@@ -8415,6 +8514,7 @@ const ejercicios =[
     ]
   },
   {
+  "id": 99,
     "titulo": "Doble techo #10",
     "resultadoEsperado": "PUT",
     "explicacion": "Doble techo",
