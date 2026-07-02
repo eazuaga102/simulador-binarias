@@ -1,7 +1,7 @@
 function draw() {
 
     ctx.clearRect(0, 0, cv.width, cv.height);
-
+    drawGrid();
     const v = ejercicio.velas.slice(0, visible);
 
     if (v.length === 0) return;
@@ -93,5 +93,42 @@ function draw() {
         );
 
     });
+
+}
+function drawGrid() {
+
+    const verticales = 10;
+    const horizontales = 8;
+
+    ctx.save();
+
+    ctx.strokeStyle = "#2b2b2b";
+    ctx.lineWidth = 1;
+
+    // Líneas verticales
+    for (let i = 0; i <= verticales; i++) {
+
+        const x = (cv.width / verticales) * i;
+
+        ctx.beginPath();
+        ctx.moveTo(x, 0);
+        ctx.lineTo(x, cv.height);
+        ctx.stroke();
+
+    }
+
+    // Líneas horizontales
+    for (let i = 0; i <= horizontales; i++) {
+
+        const y = (cv.height / horizontales) * i;
+
+        ctx.beginPath();
+        ctx.moveTo(0, y);
+        ctx.lineTo(cv.width, y);
+        ctx.stroke();
+
+    }
+
+    ctx.restore();
 
 }
