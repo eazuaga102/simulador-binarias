@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es"><head><meta charset="UTF-8"><title>Simulador S/R</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css"></head>
 <body>
 <h2>Simulador Soportes y Resistencias (Prototipo)</h2>
@@ -8,13 +9,13 @@
     <div id="ejercicioTitulo"></div>
     <div id="respuesta"></div>
 </div>
-<canvas id="c" width="900" height="500"></canvas>
-<div>
-<button id="call">CALL</button>
-<button id="put">PUT</button>
-<button id="next">Mostrar siguiente vela</button>
-<button id="nuevo">Nuevo ejercicio</button>
-<span id="msg"></span>
+<canvas id="c"></canvas>
+<div class="botones">
+    <button id="call">CALL</button>
+    <button id="put">PUT</button>
+    <button id="next">Mostrar siguiente vela</button>
+    <button id="nuevo">Nuevo ejercicio</button>
+    <span id="msg"></span>
 </div>
 <script src="ejercicios.js"></script>
 <!-- <script src="ejercicios_back.js"></script> -->

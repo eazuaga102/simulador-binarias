@@ -59,3 +59,14 @@ function show_next_buton(){
     put.style.display = "none";
     nuevo.style.display = "inline-block";    
 }
+
+function resizeCanvas(){
+
+    cv.width = cv.clientWidth;
+
+    cv.height = cv.clientHeight;
+
+    draw();
+
+}
+

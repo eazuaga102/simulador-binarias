@@ -16,4 +16,7 @@ if(nuevo){
 }
 
 cargarEjercicioAleatorio();
+window.addEventListener("resize", resizeCanvas);
+
+resizeCanvas();
 

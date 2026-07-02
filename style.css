@@ -1,1 +1,101 @@
-body{background:#111;color:#eee;font-family:Arial;text-align:center}canvas{background:#1b1b1b;border:1px solid #555;margin:10px}button{margin:5px;padding:10px}
+body{background:#111;color:#eee;font-family:Arial;text-align:center}
+canvas{background:#1b1b1b;border:1px solid #555;margin:10px}
+button{margin:5px;padding:10px}
+#infoEjercicio{
+    margin:10px;
+    font-size:2.2em;
+}
+#c {
+
+    width:100%;
+
+    max-width:900px;
+
+    height:55vh;
+
+    display:block;
+
+    background:#111;
+
+    border-radius:10px;
+    margin: 10px auto;
+
+}
+/* ==========================================
+   Móviles (hasta 500px)
+========================================== */
+
+@media (max-width: 500px) {
+
+    body{
+        padding:10px;
+    }
+
+    h1{
+        font-size:22px;
+    }
+
+    #c{
+        width:100%;
+        height:45vh;
+    }
+
+    .botones{
+        display:flex;
+        gap:12px;
+        justify-content:center;
+        flex-wrap:wrap;
+        margin-top:15px;
+    }
+
+    button{
+
+        min-width:130px;
+
+        min-height:60px;
+
+        font-size:22px;
+
+        font-weight:bold;
+
+        border-radius:12px;
+
+        padding:15px 25px;
+
+        cursor:pointer;
+
+    }
+
+    #call{
+        background:#19b35c;
+        flex:1;
+        font-size:24px;
+        height:65px;
+    }
+
+    #put{
+        background:#d64545;
+        flex:1;
+        font-size:24px;
+        height:65px;
+    }
+
+    #nuevo{
+        min-width:220px;
+         width:100%;
+        height:65px;
+        font-size:22px;
+    }
+
+    #msg{
+        font-size:20px;
+        margin-top:15px;
+    }
+
+    #infoEjercicio{
+        font-size:18px;
+        text-align:center;
+        margin-bottom:10px;
+    }
+
+}
